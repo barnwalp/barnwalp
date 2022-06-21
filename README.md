@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @barnwalp
-- 👀 I’m interested in **Web development** and writing neat **python scripts**
-- 🌱 I’m currently learning **React**
-- 💞️ I’m looking to collaborate on **front-end projects**
-- 📫 You can reach me @pankajbarnwal@hotmail.com 
-
 ### Hey there, I'm Pankaj Barnwal 👋
 
 ## I'm a Front End Developer, ReactJs developer and avid learner!
@@ -33,5 +27,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/240px-Tailwind_CSS_Logo.svg.png" />
 
 <br />
