@@ -1,6 +1,6 @@
 ### Hey there, I'm Pankaj Barnwal 👋  
 
-#### Algorithmic Trader | Python Expert | avid Learner  
+#### Algorithmic Trader | Python Expert | Avid Learner  
 - Passionate about **trading technologies** and leveraging them to solve real-world problems.  
 - Crafting **Python** scripts for **automation**, **algorithmic trading**, and **web scraping**.  
 - Actively contributing to the **tech community** and sharing knowledge.  
